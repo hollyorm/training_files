@@ -1,0 +1,28 @@
+{
+  "files": [
+    "recipe_08_08.html",
+    "recipe_18_10.html"
+  ],
+  "formats": {
+    "pdf": {
+      "version": "web",
+      "index": false,
+      "toc": true
+    },
+    "epub": {
+      "index": false,
+      "toc": false,
+      "epubcheck": false
+    },
+    "mobi": {
+      "index": false,
+      "toc": false
+    },
+    "html": {
+      "index": false,
+      "toc": false
+    }
+  },
+  "theme": "oreillymedia/atlas_tech1c_theme",
+  "title": "training files"
+}
